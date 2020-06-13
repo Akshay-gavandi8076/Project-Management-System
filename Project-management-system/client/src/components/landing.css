@@ -1,0 +1,28 @@
+.text{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.imge{
+    margin-top: 40px;
+    margin-left: 430px;
+    height: 150px;
+}
+.imgeb{
+    margin-top: 50px;
+    margin-left: 70px;
+    height: 150px;
+    width: 250px;
+}
+.imgea{
+    margin-top: 50px;
+    margin-left: 110px;
+    height: 150px;
+    width: 250px;
+}
+.imgec{
+    margin-top: 50px;
+    margin-left: 130px;
+    height: 150px;
+    width: 250px;
+}
