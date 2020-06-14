@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "5ee555e14701f412fca7e9c3"
+  },
+  "projectname": "SAD",
+  "description": "Software Architecture and Development ",
+  "department": "Computer ",
+  "teamname": "Team 1",
+  "startDate": {
+    "$date": "2020-06-13T22:39:41.208Z"
+  },
+  "endDate": {
+    "$date": "2020-07-03T22:39:41Z"
+  },
+  "createdAt": {
+    "$date": "2020-06-13T22:40:33.224Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-13T22:40:49.132Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee56e8ebe2bff1620bb79e4"
+  },
+  "projectname": "Robotics",
+  "description": "Robots and Functionalities",
+  "department": "Information Technology",
+  "teamname": "Team 5",
+  "startDate": {
+    "$date": "2020-06-17T00:25:05Z"
+  },
+  "endDate": {
+    "$date": "2020-08-20T00:25:05Z"
+  },
+  "createdAt": {
+    "$date": "2020-06-14T00:25:50.580Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-14T00:25:50.580Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee56ec6be2bff1620bb79e5"
+  },
+  "projectname": "ADB",
+  "description": "Advance Databases",
+  "department": "Big Data",
+  "teamname": "Team 6",
+  "startDate": {
+    "$date": "2020-06-17T00:25:59Z"
+  },
+  "endDate": {
+    "$date": "2020-07-16T00:25:59Z"
+  },
+  "createdAt": {
+    "$date": "2020-06-14T00:26:46.339Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-14T00:26:46.339Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee56f1fbe2bff1620bb79e6"
+  },
+  "projectname": "CTCS",
+  "description": "Current topics in Computer Science",
+  "department": "Computer Science ",
+  "teamname": "Team 3",
+  "startDate": {
+    "$date": "2020-06-23T00:26:52Z"
+  },
+  "endDate": {
+    "$date": "2020-11-19T01:26:52Z"
+  },
+  "createdAt": {
+    "$date": "2020-06-14T00:28:15.662Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-14T00:28:15.662Z"
+  },
+  "__v": 0
+}]

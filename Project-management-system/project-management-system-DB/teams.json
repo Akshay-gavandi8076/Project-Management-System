@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "5edea8dbbea6d6037c5532fe"
+  },
+  "teamname": "Team 1",
+  "createdAt": {
+    "$date": "2020-06-08T21:08:43.988Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-08T21:08:43.988Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5edea8f6bea6d6037c5532ff"
+  },
+  "teamname": "Team 2",
+  "createdAt": {
+    "$date": "2020-06-08T21:09:10.305Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-08T21:09:10.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee555a14701f412fca7e9bf"
+  },
+  "teamname": "Team 3",
+  "createdAt": {
+    "$date": "2020-06-13T22:39:29.157Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-13T22:39:29.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee555a44701f412fca7e9c0"
+  },
+  "teamname": "Team 4",
+  "createdAt": {
+    "$date": "2020-06-13T22:39:32.565Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-13T22:39:32.565Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee555a74701f412fca7e9c1"
+  },
+  "teamname": "Team 5",
+  "createdAt": {
+    "$date": "2020-06-13T22:39:35.697Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-13T22:39:35.697Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee555ab4701f412fca7e9c2"
+  },
+  "teamname": "Team 6",
+  "createdAt": {
+    "$date": "2020-06-13T22:39:39.472Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-13T22:39:39.472Z"
+  },
+  "__v": 0
+}]
