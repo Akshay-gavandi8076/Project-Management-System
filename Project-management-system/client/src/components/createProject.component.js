@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import DatePicker from 'react-datepicker';
 import "react-datepicker/dist/react-datepicker.css";
+import './Header.css';
 
 export default class CreateProject extends Component {
     constructor(props) {
@@ -105,7 +106,7 @@ export default class CreateProject extends Component {
         return (
             <div>
             <form onSubmit={this.onSubmit}>
-
+            <h1>Create New Project</h1>
               <div className="form-group"> 
                 <label>ProjectName: </label>
                 <input  type="text"
@@ -171,7 +172,7 @@ export default class CreateProject extends Component {
               </div>
       
               <div className="form-group">
-                <input type="submit" value="Create Project Log" className="btn btn-primary" />
+                <input type="submit" value="Create New Project" className="btn btn-primary" />
               </div>
             </form>
           </div>

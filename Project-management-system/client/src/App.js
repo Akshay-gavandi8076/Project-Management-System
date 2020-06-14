@@ -6,6 +6,7 @@ import Landing from './components/Landing'
 import Login from './components/Login'
 import Register from './components/Register'
 import Profile from './components/Profile'
+import Footer from './components/Footer';
 
 
 class  App extends Component {
@@ -13,7 +14,6 @@ class  App extends Component {
   return (
     <Router>
       <div className="App">
-      <div className="container">
         <Navbar/>
         <Route exact path="/" component={Landing}/>
         <div className="container">
@@ -22,7 +22,7 @@ class  App extends Component {
         <Route exact path="/profile" component={Profile}/>
         </div>
       </div>
-      </div>
+      <Footer/>
     </Router>
   )
   }

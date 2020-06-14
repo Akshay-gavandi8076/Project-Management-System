@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import './Header.css'
 
 const Project = props => (
   <tr>
@@ -53,7 +54,7 @@ export default class ProjectList extends Component {
   render() {
     return (
       <div>
-        <h3>Logged Project</h3>
+        <h1>Logged Project</h1>
         <table className="table">
           <thead className="thead-light">
             <tr>

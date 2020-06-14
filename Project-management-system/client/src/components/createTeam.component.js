@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import './Header.css';
+
 
 export default class CreateTeam extends Component {
     constructor(props) {
@@ -38,7 +40,7 @@ export default class CreateTeam extends Component {
  render() {
     return (
       <div>
-        <h3>Create New Team</h3>
+        <h1>Create New Team</h1>
         <form onSubmit={this.onSubmit}>
           <div className="form-group"> 
             <label>Team Name: </label>

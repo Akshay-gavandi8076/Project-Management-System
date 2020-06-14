@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 30px;
+    background-color:#e0e0e0;
+    padding-top: 1em;
+    
+}
+.col{
+    color: black;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.footer-col{
+    width: 100px;
+}
+.climg{
+    width: 100px;
+    height: 100px;
+}
+.my-foot{
+    margin-top: 150px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+body{
+    position: relative;
+    padding-bottom: 158px;
+    min-height: 170vh;
+}
